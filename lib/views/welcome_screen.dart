@@ -68,10 +68,3 @@ class _WelcomeState extends State<Welcome> {
     );
   }
 }
-//SignupView
-
-/*Icon(
-    Icons.verified_user,
-    color: new Color(0xff12c2e9),
-    size: 50.0,
-  ),*/

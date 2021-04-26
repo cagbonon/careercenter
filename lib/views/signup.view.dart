@@ -70,6 +70,7 @@ class _SignupViewState extends State<SignupView> {
                   },
                 ),
                 TextFormField(
+                  obscureText: true,
                   keyboardType: TextInputType.emailAddress,
                   decoration: InputDecoration(
                     labelText: "Mot de passe",

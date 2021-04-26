@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/camel/ProjetPersonnel/JE/careercenter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/camel/ProjetPersonnel/JE/Test/careercenter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/camel/ProjetPersonnel/JE/careercenter/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/camel/ProjetPersonnel/JE/Test/careercenter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
